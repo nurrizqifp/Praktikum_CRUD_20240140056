@@ -121,18 +121,6 @@ http://localhost:8080
 
 ---
 
-## * Contoh Endpoint (Jika REST API)
-
-| Method | Endpoint    | Fungsi                  |
-| ------ | ----------- | ----------------------- |
-| GET    | /items      | Menampilkan semua data  |
-| GET    | /items/{id} | Menampilkan detail data |
-| POST   | /items      | Menambahkan data        |
-| PUT    | /items/{id} | Mengubah data           |
-| DELETE | /items/{id} | Menghapus data          |
-
----
-
 ## [Build] Build Tool
 
 Project ini menggunakan **Maven** sebagai dependency management dan build automation.
